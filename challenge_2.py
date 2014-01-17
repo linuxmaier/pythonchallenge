@@ -29,5 +29,3 @@ def find_word(file):
     
     return char_frequencies
 
-
-
