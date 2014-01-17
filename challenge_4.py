@@ -19,4 +19,5 @@ def url_hunt(url):
         if stored_key == 'n':
             break
         working_url = url_prefix + stored_key
-            
+           
+url_hunt(input("Input start of hunt: "))
