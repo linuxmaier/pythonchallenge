@@ -2,7 +2,7 @@ import string
 import re
 
 def find_pattern(file):
-    '''returns a string that consists of the middle letters of matched xXXXxXXXx patterns in file''
+    '''returns a string that consists of the middle letters of matched xXXXxXXXx patterns in file'''
     f = open(file, 'r')
     string_list = []
     return_string = ''
